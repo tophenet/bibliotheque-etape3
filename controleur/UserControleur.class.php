@@ -1,6 +1,6 @@
 <?php
 require_once "model/UsersDao.class.php";
-require_once "outil/securite.class.php";
+require_once "outil/Securite.class.php";
 
 class UserControleur {
     private $userDao;
